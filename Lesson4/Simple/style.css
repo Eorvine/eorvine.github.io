@@ -1,0 +1,35 @@
+header{
+    background-color: #A52A2A;
+    color: #fff;
+    text-align: center;
+}
+.img-sunset{
+    min-width: 100%;
+    
+}
+.italic{
+    font-style: italic;
+}
+.weight{
+    font-weight: bold;
+}
+.color-blue{
+    color: blue;
+}
+p{
+    font-size: 18px;
+}
+footer{
+    font-size: 20px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+.car-img{
+    text-align: center;
+}
+.car-img img{
+    border-width: 3px;
+    border-color: #000;
+    border-style: dashed;
+}
