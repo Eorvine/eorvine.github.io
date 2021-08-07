@@ -37,9 +37,10 @@ input[type="checkbox"] {
     display:inline-block;
     width:20px;
     height:20px;
-    margin:13px 13px 13px 13px;
-    vertical-align:auto;
+    margin:0px 13px 13px 13px;
+    
     cursor:pointer;
+    
 }
 header{background-color: blue;
 margin-bottom: 0px;
@@ -68,7 +69,7 @@ label:active{
     background-color: rgb(165, 87, 87);
 }
 
-input:checked{ 
+input:checked + label { 
     text-decoration: line-through;
     background-color: #fff;
 
