@@ -28,7 +28,7 @@ img.nav{
     margin-top: 25px;
 }
 main{
-    display: table;
+    display: flex;
     font-size: 18px;
     margin-top: 5px;
 
@@ -39,7 +39,7 @@ main section{
 main section.list{
     background-color: #7d0909;
     color: #e85b0f;
-    width: 25%;
+    width: 500px;
     
 }
 main section.list ul{
